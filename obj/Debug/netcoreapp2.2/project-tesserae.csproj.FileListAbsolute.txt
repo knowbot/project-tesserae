@@ -1,0 +1,11 @@
+C:\Users\knowbot\Documents\GitHub\project-tesserae\bin\Debug\netcoreapp2.2\project-tesserae.deps.json
+C:\Users\knowbot\Documents\GitHub\project-tesserae\bin\Debug\netcoreapp2.2\project-tesserae.runtimeconfig.json
+C:\Users\knowbot\Documents\GitHub\project-tesserae\bin\Debug\netcoreapp2.2\project-tesserae.runtimeconfig.dev.json
+C:\Users\knowbot\Documents\GitHub\project-tesserae\bin\Debug\netcoreapp2.2\project-tesserae.dll
+C:\Users\knowbot\Documents\GitHub\project-tesserae\bin\Debug\netcoreapp2.2\project-tesserae.pdb
+C:\Users\knowbot\Documents\GitHub\project-tesserae\obj\Debug\netcoreapp2.2\project-tesserae.csprojAssemblyReference.cache
+C:\Users\knowbot\Documents\GitHub\project-tesserae\obj\Debug\netcoreapp2.2\project-tesserae.csproj.CoreCompileInputs.cache
+C:\Users\knowbot\Documents\GitHub\project-tesserae\obj\Debug\netcoreapp2.2\project-tesserae.AssemblyInfoInputs.cache
+C:\Users\knowbot\Documents\GitHub\project-tesserae\obj\Debug\netcoreapp2.2\project-tesserae.AssemblyInfo.cs
+C:\Users\knowbot\Documents\GitHub\project-tesserae\obj\Debug\netcoreapp2.2\project-tesserae.dll
+C:\Users\knowbot\Documents\GitHub\project-tesserae\obj\Debug\netcoreapp2.2\project-tesserae.pdb
